@@ -25,6 +25,7 @@ public class PullToRefreshListView extends ListView {
     private View headerView;
     private TextView mTvDesc;
 
+
     private int headerHeight;//下拉头部的高度
     private int paddingTop; //下拉头部离屏幕顶部的距离
 
